@@ -1,1 +1,0 @@
-{"size": "medium", "price": 15.67, "toppings": ["mushrooms", "pepperoni", "basil"], "extra_cheese": false, "delivery": true, "client": {"name": "Jane Doe", "phone": null, "email": "janedoe@email.com"}, "another dict": {"valueA": "A", "valueB": null, "valueC": "C", "number of Values: ": 3, "what about a dict in a dict": {"a": "A"}}}
