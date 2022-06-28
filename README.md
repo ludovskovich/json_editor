@@ -2,7 +2,7 @@
 Json file viewer / editor made in python using pyside2
 
 How to use : 
-  - Run **App.py **
+  - Run **App.exe**
   - You can start from the fresh file opened or go to **File->Open** to load a Json file
   - Pressing add will **Add** a new object with the same parent as the object owning the **Add** button
   - **Remove** will delete the field
